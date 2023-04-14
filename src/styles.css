@@ -7,3 +7,7 @@
   font-family: 'Arial';
   color: #fff;
 }
+
+a {
+  text-decoration: none;
+}
