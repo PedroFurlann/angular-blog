@@ -1,0 +1,10 @@
+
+.container__header > ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.container__header > ul > li {
+  margin-right: 1.25rem;
+  list-style: none;
+}
